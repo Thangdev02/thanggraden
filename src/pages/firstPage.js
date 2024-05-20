@@ -1,6 +1,5 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import NavigateComponent from "../components/successBtn";
 import MediaCard from "../components/cardItem";
 import cardData from "../services/data/data";
 import "../styles/firstPage.css";

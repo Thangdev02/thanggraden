@@ -33,7 +33,7 @@ function Blog() {
           low-maintenance plants that bring a touch of tropical elegance to any
           space.
         </p>
-        <a href="#">Read More</a>
+        <a href="/duongdan1">Read More</a>
       </div>
     </div>
   );

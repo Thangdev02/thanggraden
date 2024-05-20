@@ -20,7 +20,7 @@ const settings = [
   { label: 'Profile', path: '/profile' },
   { label: 'Account', path: '/account' },
   { label: 'Dashboard', path: '/dashboard' },
-  { label: 'Logout', path: '/logout' }
+  { label: 'Logout', path: '/login' }
 ];
 
 function ResponsiveAppBar() {

@@ -4,7 +4,6 @@ import { useNavigate } from 'react-router-dom';
 import accountData from '../services/data/auth';
 import PrimarySearchAppBar from '../layouts/appBar';
 import { duongdan } from '../routes';
-import Footer from '../layouts/footer';
 
 function LoginPage() {
   const [username, setUsername] = useState('');

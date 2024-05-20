@@ -1,0 +1,19 @@
+.admin-page {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+  }
+  
+  .app-bar {
+    margin-bottom: 20px;
+  }
+  
+  .content {
+    flex-grow: 1;
+    padding: 20px;
+  }
+  
+  .chart-container {
+    height: 400px;
+  }
+  

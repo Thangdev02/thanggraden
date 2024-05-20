@@ -1,9 +1,8 @@
 
 export const duongdan = {
-    home:"/",
+    login:"/",
     firstPage: '/duongdan1',
     secondPage: '/duongdan2',
-    login:'/login',
     admin :'/admin'
 }
 

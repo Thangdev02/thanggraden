@@ -2,10 +2,8 @@ import React from 'react';
 import { AppBar, Toolbar, Typography, Container, Grid } from "@mui/material";
 import { Doughnut } from 'react-chartjs-2';
 import '../styles/adminPage.css'; // Import CSS file for styling
-import DashboardScreen from '../components/dashboard';
 
 const AdminPage = () => {
-  // Example chart data
   const chartData = {
     labels: ['January', 'February', 'March', 'April', 'May', 'June', 'July'],
     datasets: [

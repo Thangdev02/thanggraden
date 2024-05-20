@@ -32,7 +32,7 @@ function LoginPage() {
         <PrimarySearchAppBar/>
     <div className="login-container">
       <div className="image-container">
-        <img src="https://png.pngtree.com/thumb_back/fw800/background/20240227/pngtree-abstract-summer-monstera-leaf-tropical-seamless-pattern-image_15631188.jpg" alt="Login Image" />
+        <img alt="banner" src="https://png.pngtree.com/thumb_back/fw800/background/20240227/pngtree-abstract-summer-monstera-leaf-tropical-seamless-pattern-image_15631188.jpg" />
       </div>
       <div className="form-container">
         <h2>Login</h2>

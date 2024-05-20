@@ -3,6 +3,9 @@
     align-items: center;
     justify-content: center;
     height: 100vh;
+    background-image: url("https://png.pngtree.com/background/20230617/original/pngtree-monstera-plant-in-3d-render-isolated-on-white-background-picture-image_3698208.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
   }
   
   .image-container {
@@ -16,7 +19,7 @@
     width: 100%;
     height: 100%;
     border-radius: 15px;
-    box-shadow: 10px 6px 10px 1px grey;
+    box-shadow: 10px 6px 10px 1px black;
 
   }
   
@@ -31,7 +34,7 @@
     align-items: center;
     justify-content: center;
     border-radius: 15px;
-    box-shadow: 10px 6px 10px 1px grey;
+    box-shadow: 5px 3px 15px 6px black;
   }
   
   .form-container h2 {

@@ -2,7 +2,6 @@ import './App.css';
 import AppRoute from './routes/appRoutes';
 
 function App() {
-  
   return (
     <div className="App">
       <AppRoute/>

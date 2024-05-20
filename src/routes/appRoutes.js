@@ -4,6 +4,7 @@ import FristPage from "../pages/firstPage";
 import SecondPage from "../pages/secondPage";
 import LoginPage from "../pages/loginPage";
 import AdminPage from "../pages/adminPage";
+import { duongdan } from ".";
 
 export default function AppRoute() {
   return (
